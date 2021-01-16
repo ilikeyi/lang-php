@@ -1,7 +1,3 @@
-# lang-php
-
-Lang-php.com 全站源代码
-
 # Lang-php
 
 This is a multilingual program implemented in a framework that is implemented in a number of different ways. Frame design not only allows you to build a website that is simple, fast, and efficient enough to satisfy you.
@@ -34,5 +30,4 @@ Thank you for choosing and using Lang-PHP to create your Web application, can be
 * [Aptana](https://lang-php.com/go/Aptana) - http://www.aptana.com
 * [PhpStorm](https://lang-php.com/go/PhpStorm) - https://www.jetbrains.com/phpstorm
 * [Cloud9](https://lang-php.com/go/Cloud9) - https://c9.io
-
 
