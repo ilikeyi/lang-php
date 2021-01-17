@@ -53,23 +53,23 @@
 											</thead>
 											<tbody>
 												<tr>
-													<td><a href="https://lang-php.com/go/lp-zip">lang-php-latest-master.zip</a></td>
+													<td><a href="lang-php-latest-master.zip">lang-php-latest-master.zip</a></td>
 													<td>310kb</td>
-													<td>[<a href="https://lang-php.com/go/lp-zip-pgp">PGP</a>] [<a href="https://lang-php.com/go/lp-zip-sha256">SHA256</a>]</td>
+													<td>[<a href="lang-php-latest-master.zip.asc">PGP</a>] [<a href="lang-php-latest-master.zip.sha256">SHA256</a>]</td>
 												</tr>
 											</tbody>
 											<tbody>
 												<tr>
-													<td><a href="https://lang-php.com/go/lp-gz">lang-php-latest-master.tar.gz</a></td>
+													<td><a href="lang-php-latest-master.tar.gz">lang-php-latest-master.tar.gz</a></td>
 													<td>228kb</td>
-													<td>[<a href="https://lang-php.com/go/lp-gz-pgp">PGP</a>] [<a href="https://lang-php.com/go/lp-gz-sha256">SHA256</a>]</td>
+													<td>[<a href="lang-php-latest-master.tar.gz.asc">PGP</a>] [<a href="lang-php-latest-master.tar.gz.sha256">SHA256</a>]</td>
 												</tr>
 											</thead>
 											<tbody>
 												<tr>
-													<td><a href="https://lang-php.com/go/lp-xz">lang-php-latest-master.tar.xz</a></td>
+													<td><a href="lang-php-latest-master.tar.xz">lang-php-latest-master.tar.xz</a></td>
 													<td>89kb</td>
-													<td>[<a href="https://lang-php.com/go/lp-xz-pgp">PGP</a>] [<a href="https://lang-php.com/go/lp-xz-sha256">SHA256</a>]</td>
+													<td>[<a href="lang-php-latest-master.tar.xz.asc">PGP</a>] [<a href="lang-php-latest-master.tar.xz.sha256">SHA256</a>]</td>
 												</tr>
 											</tbody>
 										</table>
